@@ -1,4 +1,4 @@
-# Cherry Tea – is a non-profit initiative fueled by the team of volunteers. 
+# Cherry Tea is a non-profit initiative powered by a dedicated team of volunteers
 
-We comtribute to different social projects aimed on improving our society.
-Please check the list of our repositories for more into or contact CherryTea Founder.
+We are actively involved in various social projects with the goal of enhancing our community. 
+For more information, please review our list of initiatives or contact [CherryTea Founder](https://t.me/mikemiket).
